@@ -1,4 +1,5 @@
 # Monocular Velocity
+![](illustration.jpg)
 Model has been trained and tested on Ubuntu16.04, PyTorch 0.4.
 
 If you use this work, please cite our paper [arxiv](https://arxiv.org/abs/2006.04082):
